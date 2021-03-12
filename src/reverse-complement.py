@@ -6,7 +6,7 @@ VERSION
     1.0
     
 AUTHOR
-   Mateo Maya	
+	
     
 DESCRIPTION
 	Make the reverse complement of DNA sequence
@@ -20,7 +20,7 @@ USAGE
     
     example
     
-    % python reverse-complement -i sequence.txt
+    % python reverse-complement -i
 
 '''
 
