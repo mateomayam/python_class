@@ -6,7 +6,7 @@ VERSION
     1.0
     
 AUTHOR
-   Mateo Maya	
+   Mateo Maya y Pat García	
     
 DESCRIPTION
 	Make the reverse complement of DNA sequence
