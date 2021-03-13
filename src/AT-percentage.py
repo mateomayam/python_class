@@ -5,7 +5,7 @@ VERSION
         1.0
 
 AUTHOR
-   Mateo Maya        
+        
 
 DESCRIPTION
         Calculate percentage of AT on a genome sequence
