@@ -18,4 +18,6 @@ dna = 'AAGGTACGTCGCGCGTTATTAGCCTAAT'
 start = dna.find("TAC")
 end = dna.find("TAA")
 
+print ("El codón de inicio empieza en la posición", start+1) #Es la variable start +1 porque el usuario no cuenta desde 0.
+print ("El codón de paro empieza en la posición", end+1)#Es la variable end +1 porque el usuario no cuenta desde 0.
 print ("La secuencia codificante es", dna[start:end + 3])
