@@ -1,18 +1,26 @@
-'''NOMBRE
-       template.py
+'''
+NAME
+       [programName].py
 
 VERSION
-        1.0
+        [#.#]
 
-AUTOR
-        Mateo Maya Martínez
+AUTHOR       
+        Mateo Maya Martínez <[username]@gmail.com>
 
-DESCRIPCIÓN
-        
+DESCRIPTION        
+        [Describe brevemente lo que hace el programa ]
 
-CATEGORÍA
-       
+CATEGORY       
+       [Puedes asignar una clasificación a tus programas por ejemeplo: genomic sequence, sequence analysis, etc]
 
-USO
+USAGE
+       [programName][-options/arguments]
+
+OPTIONS
+       [name]  [description]
+
+EXAMPLES
+       [Ejemplo1. Describe brevemente el ejemplo y despues indica la sintáxis]
 
 ''' 
