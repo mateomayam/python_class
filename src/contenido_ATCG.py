@@ -19,7 +19,7 @@ EXAMPLES
        [Ejemplo1. input: ATCG.
                   output: A: 1, T: 1, C: 1, G: 1]
 
-LIGA DE GITHUB: [https://github.com/MateoMayaM/python_class]
+LIGA DE GITHUB: [https://github.com/MateoMayaM/python_class/blob/master/src/contenido_ATCG.py]
 
 '''
 
