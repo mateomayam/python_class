@@ -34,6 +34,8 @@ EXAMPLES
                                     > seq_3
                                     ACTGACACTGTACTGTACATGTG          ]
 
+LIGA DE GITHUB: [https://github.com/MateoMayaM/python_class/blob/master/src/fasta_sequences.py]
+
 '''
 
 # Abrir el archivo que contiene las secuencias.
