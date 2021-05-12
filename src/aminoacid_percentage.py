@@ -27,7 +27,7 @@ EXAMPLES
                M L])
         Output: El porcentaje es: 55.0 %]
 
-LIGA DE GITHUB: [https://github.com/MateoMayaM/python_class/blob/master/src/fasta_sequences.py]
+LIGA DE GITHUB: [https://github.com/MateoMayaM/python_class/blob/master/src/aminoacid_percentage.py]
 
 '''
 
