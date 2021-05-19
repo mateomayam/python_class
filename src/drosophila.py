@@ -35,7 +35,7 @@ EXAMPLES
                 La respuesta a la pregunta 5 es:
                 ...]
 
-LIGA DE GITHUB: [https://github.com/MateoMayaM/python_class/blob/master/src/aminoacid_percentage.py]
+LIGA DE GITHUB: [https://github.com/MateoMayaM/python_class/blob/master/src/drosophila.py]
 '''
 
 #Abrir y leer el archivo con el cual trabajaremos.
