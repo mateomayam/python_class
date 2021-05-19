@@ -9,7 +9,7 @@ AUTHOR
         Mateo Maya Martínez <[matteo.mayam@outlook.com>
 
 DESCRIPTION
-        [Este programa recibe como input un archivo .csv y a partir de él ciertas preguntas.]
+        [Este programa recibe como input un archivo .csv y a partir de él responde ciertas preguntas.]
 
 CATEGORY
        [Organism.]
