@@ -1,0 +1,34 @@
+'''
+NAME
+       [programName].py
+
+VERSION
+        [#.#]
+
+AUTHOR
+        Mateo Maya Martínez <[username]@gmail.com>
+
+DESCRIPTION
+        [Describe brevemente lo que hace el programa ]
+
+CATEGORY
+       [Puedes asignar una clasificación a tus programas por ejemeplo: genomic sequence, sequence analysis, etc]
+
+USAGE
+       [programName][-options/arguments]
+
+OPTIONS
+       [-i, --input]  [Path of the input file]
+       [-o, --output] [Path for the output file]
+       [-h, --help]   [Shows the argumentss and a brief description of the program]
+
+FUNCTION_TEMPLATE
+       [# Description of the function
+         def function_name(argument1, argument2):
+         	code     
+						  ]
+EXAMPLES
+       [Ejemplo1. Describe brevemente el ejemplo y despues indica la sintáxis]
+
+'''
+
