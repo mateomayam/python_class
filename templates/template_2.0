@@ -20,15 +20,16 @@ USAGE
 OPTIONS
        [-i, --input]  [Path of the input file]
        [-o, --output] [Path for the output file]
-       [-h, --help]   [Shows the argumentss and a brief description of the program]
+       [-h, --help]   [Shows the arguments and a brief description of the program]
 
 FUNCTION_TEMPLATE
-       [# Description of the function
+       [# Description of the function]
          def function_name(argument1, argument2):
          	code     
 						  ]
 EXAMPLES
-       [Ejemplo1. Describe brevemente el ejemplo y despues indica la sintáxis]
+       [Ejemplo1. Describe brevemente el ejemplo y después indica la sintaxis]
+       [Ejemplo2. Describe brevemente otro ejemplo e indica la sintaxis]
 
 '''
 
