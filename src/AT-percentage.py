@@ -2,10 +2,10 @@
        AT-percentage
 
 VERSION
-        1.0
+        0.0.4
 
 AUTHOR
-        
+	Mateo Maya        
 
 DESCRIPTION
         Calculate percentage of AT on a genome sequence
@@ -15,7 +15,7 @@ CATEGORY
 
 USAGE
 
-    % python AT-percentage.py -i filename
+    % python AT-percentage.py
     
     example
     
